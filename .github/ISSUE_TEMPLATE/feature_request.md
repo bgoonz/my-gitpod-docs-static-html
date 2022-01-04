@@ -3,8 +3,7 @@ name: Feature request
 about: Request a feature!
 title: "[FEATURE]"
 labels: enhancement
-assignees: ''
-
+assignees: ""
 ---
 
 **What would you like to change about the program?**
